@@ -1,0 +1,158 @@
+
+{
+ "status": "success",
+  "data": [
+    {
+      "id": 1,
+      "name": "Veg Pizza",
+      "unitPrice": 100,
+      "imageUrl": "https://dclaevazetcjjkrzczpc.supabase.co/storage/v1/object/public/pizzas/pizza-3.jpg",
+      "ingredients": ["tomato", "mozzarella", "cheese"],
+      "soldOut": false
+    },
+    {
+      "id": 2,
+      "name": "Margherita",
+      "unitPrice": 120,
+      "imageUrl": "https://dclaevazetcjjkrzczpc.supabase.co/storage/v1/object/public/pizzas/pizza-1.jpg",
+      "ingredients": ["tomato", "mozzarella", "basil"],
+      "soldOut": false
+    },
+    {
+      "id": 3,
+      "name": "Capsicum Pizza",
+      "unitPrice": 160,
+      "imageUrl": "https://dclaevazetcjjkrzczpc.supabase.co/storage/v1/object/public/pizzas/pizza-4.jpg",
+      "ingredients": ["tomato", "mozzarella", "Capsicum", "Onion"],
+      "soldOut": false
+    },
+    {
+      "id": 4,
+      "name": "Non Veg Supreme ",
+      "unitPrice": 140,
+      "imageUrl": "https://dclaevazetcjjkrzczpc.supabase.co/storage/v1/object/public/pizzas/pizza-2.jpg",
+      "ingredients": [
+        "tomato",
+        "Grilled Chicken",
+        "mozzarella",
+        "Peri Peri chicken",
+        "mushrooms"
+      ],
+      "soldOut": true
+    },
+    {
+      "id": 5,
+      "name": "Veg BabyCorn Pizza",
+      "unitPrice": 160,
+      "imageUrl": "https://dclaevazetcjjkrzczpc.supabase.co/storage/v1/object/public/pizzas/pizza-7.jpg",
+      "ingredients": ["BabyCorn", "mozzarella", "fresh tomato", "basil"],
+      "soldOut": false
+    },
+    {
+      "id": 6,
+      "name": "Vegetale Pizza",
+      "unitPrice": 170,
+      "imageUrl": "https://dclaevazetcjjkrzczpc.supabase.co/storage/v1/object/public/pizzas/pizza-6.jpg",
+      "ingredients": ["tomato", "mozzarella", "Paneer", "onions", "mushrooms"],
+      "soldOut": false
+    },
+    {
+      "id": 7,
+      "name": "Diavola",
+      "unitPrice": 160,
+      "imageUrl": "https://dclaevazetcjjkrzczpc.supabase.co/storage/v1/object/public/pizzas/pizza-5.jpg",
+      "ingredients": ["tomato", "mozzarella", "spicy salami", "chili flakes"],
+      "soldOut": false
+    },
+    {
+      "id": 8,
+      "name": "Double Cheese Margharita",
+      "unitPrice": 180,
+      "imageUrl": "https://dclaevazetcjjkrzczpc.supabase.co/storage/v1/object/public/pizzas/pizza-8.jpg",
+      "ingredients": ["tomato", "mozzarella", "olives", "capers"],
+      "soldOut": true
+    },
+    {
+      "id": 9,
+      "name": "Pepperoni",
+      "unitPrice": 140,
+      "imageUrl": "https://dclaevazetcjjkrzczpc.supabase.co/storage/v1/object/public/pizzas/pizza-9.jpg",
+      "ingredients": ["tomato", "mozzarella", "pepperoni"],
+      "soldOut": false
+    },
+    {
+      "id": 10,
+      "name": "Chocolate Pizza",
+      "unitPrice": 150,
+      "imageUrl": "https://dclaevazetcjjkrzczpc.supabase.co/storage/v1/object/public/pizzas/pizza-10.jpg",
+      "ingredients": ["white chocolate chips", "mozzarella", "pineapple", "hazelnut"],
+      "soldOut": false
+    },
+    {
+      "id": 11,
+      "name": "Spinach and Mushroom",
+      "unitPrice": 150,
+      "imageUrl": "https://dclaevazetcjjkrzczpc.supabase.co/storage/v1/object/public/pizzas/pizza-11.jpg",
+      "ingredients": ["tomato", "mozzarella", "spinach", "mushrooms"],
+      "soldOut": false
+    },
+    {
+      "id": 12,
+      "name": "Veggie Paradise",
+      "unitPrice": 160,
+      "imageUrl": "https://dclaev
+
+azetcjjkrzczpc.supabase.co/storage/v1/object/public/pizzas/pizza-12.jpg",
+      "ingredients": ["tomato", "mozzarella", "sun-dried tomatoes", "olives", "Golden Corn"],
+      "soldOut": false
+    },
+    {
+      "id": 13,
+      "name": "Greek",
+      "unitPrice": 160,
+      "imageUrl": "https://dclaevazetcjjkrzczpc.supabase.co/storage/v1/object/public/pizzas/pizza-13.jpg",
+      "ingredients": ["tomato", "mozzarella", "spinach", "feta", "olives", "pepperoncini"],
+      "soldOut": true
+    },
+    {
+      "id": 14,
+      "name": "Chicken Golden Delight",
+      "unitPrice": 180,
+      "imageUrl": "https://dclaevazetcjjkrzczpc.supabase.co/storage/v1/object/public/pizzas/pizza-14.jpg",
+      "ingredients": ["tomato", "mozzarella", "Chicken", "butter", "eggWhite"],
+      "soldOut": false
+    },
+    {
+      "id": 15,
+      "name": "Chicken Delight",
+      "unitPrice": 160,
+      "imageUrl": "https://dclaevazetcjjkrzczpc.supabase.co/storage/v1/object/public/pizzas/pizza-15.jpg",
+      "ingredients": ["pesto", "mozzarella", "chicken", "sun-dried tomatoes", "spinach"],
+      "soldOut": false
+    },
+    {
+      "id": 16,
+      "name": "Mexican",
+      "unitPrice": 150,
+      "imageUrl": "https://dclaevazetcjjkrzczpc.supabase.co/storage/v1/object/public/pizzas/pizza-16.jpg",
+      "ingredients": ["marinara", "mozzarella", "veggies", "cheese", "parmesan"],
+      "soldOut": false
+    },
+    {
+      "id": 17,
+      "name": "Roasted Veggie",
+      "unitPrice": 150,
+      "imageUrl": "https://dclaevazetcjjkrzczpc.supabase.co/storage/v1/object/public/pizzas/pizza-17.jpg",
+      "ingredients": ["marinara", "mozzarella", "veggies", "peppers", "onions"],
+      "soldOut": false
+    },
+    {
+      "id": 18,
+      "name": "Panner and Mushroom",
+      "unitPrice": 190,
+      "imageUrl": "https://dclaevazetcjjkrzczpc.supabase.co/storage/v1/object/public/pizzas/pizza-18.jpg",
+      "ingredients": ["Roasted Panner", "mozzarella", "Panner", "Grilled mushrooms", "bell peppers"],
+      "soldOut": false
+    }
+  ]
+}
