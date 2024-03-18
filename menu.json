@@ -100,9 +100,7 @@
       "id": 12,
       "name": "Veggie Paradise",
       "unitPrice": 160,
-      "imageUrl": "https://dclaev
-
-azetcjjkrzczpc.supabase.co/storage/v1/object/public/pizzas/pizza-12.jpg",
+      "imageUrl": "https://dclaevazetcjjkrzczpc.supabase.co/storage/v1/object/public/pizzas/pizza-12.jpg",
       "ingredients": ["tomato", "mozzarella", "sun-dried tomatoes", "olives", "Golden Corn"],
       "soldOut": false
     },
